@@ -1,2 +1,2 @@
-# gamebot
-A simple bot for playing games in Discord servers, running on Node.js
+# Gamebot
+A simple bot for playing tic tac toe in Discord servers, running on Node.js.
