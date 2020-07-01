@@ -6,21 +6,5 @@ This bot was designed with python3.8 in mind. If you do not have python 3.8 inst
 it. The best way is to install it through [pyenv](https://github.com/pyenv/pyenv). I also highly recommend installing
 [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
-If you are running macOS, you can install via [homebrew](https://brew.sh/).
+Ultimately this will be running in a Docker container.
 
-### Install pyenv:
-```commandline
-brew update
-brew install pyenv
-```
-
-### Install python3.8:
-```commandline
-pyenv install 3.8.0
-pyenv local 3.8.0
-```
-
-### Install virtualenv:
-```commandline
-pip3 install virtualenv
-```
